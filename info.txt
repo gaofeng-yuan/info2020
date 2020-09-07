@@ -1,0 +1,2 @@
+admin:xiaoming
+password:123456
